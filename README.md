@@ -63,19 +63,19 @@ jupyter notebook network_traffic_analysis.ipynb
 ## 📊 Visual Results
 ### 🔹 Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/Vink0217/Network-Traffic-Analysis/blob/e7d8935a92ab8f472d63f641052d2b3d85321a7a/Images/Confusion%20Matrix.png)
 
 ---
 
 ### 🔹 Traffic Pattern Visualization
 
-![Traffic Visualization](images/traffic_visualization.png)
+![Traffic Visualization](https://github.com/Vink0217/Network-Traffic-Analysis/blob/e7d8935a92ab8f472d63f641052d2b3d85321a7a/Images/PCA.png)
 
 ---
 
 ### 🔹 Model Accuracy Plot
 
-![Accuracy Plot](images/accuracy_plot.png)
+![Accuracy Plot](https://github.com/Vink0217/Network-Traffic-Analysis/blob/e7d8935a92ab8f472d63f641052d2b3d85321a7a/Images/Model%20Accuract%20Comparison.png)
 
 ## 📚 Dataset
 
