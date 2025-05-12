@@ -1,0 +1,6 @@
+*.csv
+*.pcap
+*.h5
+*.pkl
+__pycache__/
+.env
