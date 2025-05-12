@@ -61,16 +61,21 @@ jupyter notebook network_traffic_analysis.ipynb
   ✅ Neural Network (Multi-Layer Perceptron)
 
 ## 📊 Visual Results
-🔹 Confusion Matrix
-Add your confusion matrix image here.
+### 🔹 Confusion Matrix
 
+![Confusion Matrix](images/confusion_matrix.png)
 
-🔹 Network Traffic Pattern Visualization
-Include PCA, t-SNE, or any clustering visualization.
+---
 
+### 🔹 Traffic Pattern Visualization
 
-🔹 Model Accuracy & Performance Plots
-Add line/bar charts showing model accuracy, precision, recall, etc.
+![Traffic Visualization](images/traffic_visualization.png)
+
+---
+
+### 🔹 Model Accuracy Plot
+
+![Accuracy Plot](images/accuracy_plot.png)
 
 ## 📚 Dataset
 
